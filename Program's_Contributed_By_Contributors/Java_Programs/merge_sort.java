@@ -1,4 +1,3 @@
-// Java program for Merge Sort
 import java.io.*;
 
 class MergeSort {
